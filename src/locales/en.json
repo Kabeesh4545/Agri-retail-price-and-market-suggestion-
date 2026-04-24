@@ -1,0 +1,46 @@
+{
+  "title": "Agri Retail Sales",
+  "select_language": "Select Your Language",
+  "login": "Login",
+  "enter_mobile": "Enter your Mobile Number",
+  "continue": "Continue",
+  "select_crop": "Select Crop to Sell",
+  "best_market": "Best Marketplace Suggestion",
+  "price_states": "Crop Price in Different States",
+  "distance_label": "Enter Distance to Market (Km)",
+  "transport_cost": "Calculate Transport Cost",
+  "transport_result": "Transport Cost",
+  "analyze": "Analyze Best Time To Sell",
+  "sell_today": "Recommendation: SELL Today",
+  "sell_tomorrow": "Recommendation: WAIT & SELL Tomorrow",
+  "payment": "Payment Options",
+  "online_payment": "Online UPI",
+  "card_payment": "Debit / Credit Card",
+  "cash_on_delivery": "Cash on Delivery",
+  "continue_payment": "Continue to Payment",
+
+  "crop": {
+    "rice": "Rice",
+    "wheat": "Wheat",
+    "tomato": "Tomato",
+    "potato": "Potato",
+    "sugarcane": "Sugarcane",
+    "maize": "Maize"
+  },
+  "state": {
+  "tamil_nadu": "Tamil Nadu",
+  "karnataka": "Karnataka",
+  "kerala": "Kerala",
+  "maharashtra": "Maharashtra",
+  "punjab": "Punjab",
+  "andhra_pradesh": "Andhra Pradesh",
+  "telangana": "Telangana",
+  "up": "Uttar Pradesh",
+  "rajasthan": "Rajasthan",
+  "bihar": "Bihar",
+  "west_bengal": "West Bengal",
+  "madhya_pradesh": "Madhya Pradesh",
+  "gujarat": "Gujarat"
+}
+
+}

@@ -1,0 +1,47 @@
+{
+  "title": "कृषि खुदरा बिक्री",
+  "select_language": "अपनी भाषा चुनें",
+  "login": "लॉगिन",
+  "enter_mobile": "अपना मोबाइल नंबर दर्ज करें",
+  "continue": "जारी रखें",
+  "select_crop": "बेचने के लिए फसल चुनें",
+  "best_market": "सबसे अच्छा बाज़ार सुझाव",
+  "price_states": "विभिन्न राज्यों में फसल की कीमत",
+  "distance_label": "बाज़ार तक दूरी दर्ज करें (किमी)",
+  "transport_cost": "परिवहन लागत की गणना करें",
+  "transport_result": "परिवहन लागत",
+  "analyze": "बेचने का सबसे अच्छा समय विश्लेषण करें",
+  "sell_today": "सिफारिश: आज बेचें",
+  "sell_tomorrow": "सिफारिश: प्रतीक्षा करें और कल बेचें",
+  "payment": "भुगतान विकल्प",
+  "online_payment": "ऑनलाइन UPI",
+  "card_payment": "डेबिट / क्रेडिट कार्ड",
+  "cash_on_delivery": "डिलीवरी पर नकद",
+  "continue_payment": "भुगतान जारी रखें",
+
+  "crop": {
+    "rice": "चावल",
+    "wheat": "गेहूं",
+    "tomato": "टमाटर",
+    "potato": "आलू",
+    "sugarcane": "गन्ना",
+    "maize": "मक्का"
+  },
+  "state": {
+  "tamil_nadu": "तमिलनाडु",
+  "karnataka": "कर्नाटक",
+  "kerala": "केरल",
+  "maharashtra": "महाराष्ट्र",
+  "punjab": "पंजाब",
+  "andhra_pradesh": "आंध्र प्रदेश",
+  "telangana": "तेलंगाना",
+  "up": "उत्तर प्रदेश",
+  "rajasthan": "राजस्थान",
+  "bihar": "बिहार",
+  "west_bengal": "पश्चिम बंगाल",
+  "madhya_pradesh": "मध्य प्रदेश",
+  "gujarat": "गुजरात"
+}
+
+}
+
